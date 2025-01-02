@@ -35,3 +35,20 @@
 [23:43:13] [Server thread/INFO]: Switchblade19 has made the advancement [Stone Age]
 [23:43:27] [Server thread/INFO]: Switchblade19 has made the advancement [Getting an Upgrade]
 [23:46:06] [Server thread/INFO]: Switchblade19 has made the advancement [Sweet Dreams]
+[23:46:13] [Server thread/INFO]: calderah664 lost connection: You logged in from another location
+[23:46:13] [Server thread/INFO]: calderah664 left the game
+[23:46:13] [Server thread/WARN]: handleDisconnection() called twice
+[23:46:13] [Server thread/INFO]: calderah664[/[0:0:0:0:0:0:0:1%0]:38384] logged in with entity id 1907 at (329.29961472812414, 62.0, 111.69999998807907)
+[23:46:13] [Server thread/INFO]: calderah664 joined the game
+[23:46:42] [Server thread/INFO]: calderah664 fell from a high place
+[23:48:51] [Server thread/INFO]: Seed: [5982729981920886056]
+[23:50:07] [Server thread/INFO]: Switchblade19 was impaled on a stalagmite
+[23:51:12] [Server thread/INFO]: Switchblade19 was slain by Zombie
+[23:51:34] [Server thread/WARN]: Mismatch in destroy block pos: gw{x=-272, y=64, z=-471} gw{x=-272, y=62, z=-471}
+[23:51:34] [Server thread/WARN]: Mismatch in destroy block pos: gw{x=-272, y=64, z=-471} gw{x=-272, y=62, z=-471}
+[23:51:35] [Server thread/WARN]: Mismatch in destroy block pos: gw{x=-272, y=64, z=-472} gw{x=-272, y=62, z=-472}
+[23:53:27] [Server thread/INFO]: Teleported calderah664 to Switchblade19
+[23:54:21] [Server thread/INFO]: calderah664 has made the advancement [Stone Age]
+[23:54:27] [Server thread/INFO]: miguel1234[/[0:0:0:0:0:0:0:1%0]:45226] logged in with entity id 6605 at (-8.5, 132.0, -6.5)
+[23:54:27] [Server thread/INFO]: miguel1234 joined the game
+[23:54:33] [Server thread/INFO]: calderah664 has made the advancement [Getting an Upgrade]
