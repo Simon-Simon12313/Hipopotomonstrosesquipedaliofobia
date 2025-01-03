@@ -332,3 +332,14 @@
 [22:42:14] [Server thread/WARN]: Rejecting UseItemOnPacket from Switchblade19: Location (-384.5014002621174, 90.125, 734.3003077805042) too far away from hit block gw{x=-385, y=91, z=734}.
 [22:42:14] [Server thread/WARN]: Rejecting UseItemOnPacket from Switchblade19: Location (-384.5014002621174, 90.125, 734.3003077805042) too far away from hit block gw{x=-385, y=91, z=734}.
 [22:42:29] [Server thread/INFO]: Villager cbh['Fisherman'/115968, l='ServerLevel[world]', x=-386.70, y=88.00, z=735.30] died, message: 'Fisherman was slain by Switchblade19'
+[22:46:24] [Server thread/WARN]: Oak Boat (vehicle of Switchblade19) moved wrongly! 0.3268816532867618
+[22:46:24] [Server thread/WARN]: Oak Boat (vehicle of Switchblade19) moved wrongly! 0.25652328983085226
+[22:46:24] [Server thread/WARN]: Oak Boat (vehicle of Switchblade19) moved wrongly! 0.3268816532867618
+[22:46:24] [Server thread/WARN]: Oak Boat (vehicle of Switchblade19) moved wrongly! 0.25571262540995576
+[22:46:24] [Server thread/WARN]: Oak Boat (vehicle of Switchblade19) moved wrongly! 0.3268816532867618
+[22:46:24] [Server thread/WARN]: Oak Boat (vehicle of Switchblade19) moved wrongly! 0.2552262267864194
+[22:46:24] [Server thread/WARN]: Oak Boat (vehicle of Switchblade19) moved wrongly! 0.3268816532867618
+[22:46:24] [Server thread/WARN]: Oak Boat (vehicle of Switchblade19) moved wrongly! 0.25542303023286195
+[22:46:24] [Server thread/WARN]: Oak Boat (vehicle of Switchblade19) moved wrongly! 0.3268816532867618
+[22:46:24] [Server thread/WARN]: Oak Boat (vehicle of Switchblade19) moved wrongly! 0.2558363340992855
+[22:53:43] [Server thread/INFO]: [Switchblade19: Teleported calderah664 to Switchblade19]
