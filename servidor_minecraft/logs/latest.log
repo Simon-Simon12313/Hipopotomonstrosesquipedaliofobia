@@ -255,3 +255,12 @@
 [21:53:20] [Server thread/INFO]: Switchblade19 left the game
 [21:54:41] [Server thread/INFO]: Switchblade19[/[0:0:0:0:0:0:0:1%0]:53790] logged in with entity id 121182 at (-426.4026036977632, 83.0, 732.3067762284453)
 [21:54:41] [Server thread/INFO]: Switchblade19 joined the game
+[21:58:54] [Server thread/INFO]: calderah664 lost connection: Timed out
+[21:58:54] [Server thread/INFO]: calderah664 left the game
+[21:59:07] [Server thread/INFO]: calderah664[/[0:0:0:0:0:0:0:1%0]:52690] logged in with entity id 122015 at (-385.3663847772004, 91.5625, 700.7973867521459)
+[21:59:07] [Server thread/INFO]: calderah664 joined the game
+[22:03:17] [Server thread/INFO]: Switchblade19 lost connection: You logged in from another location
+[22:03:17] [Server thread/INFO]: Switchblade19 left the game
+[22:03:18] [Server thread/INFO]: Switchblade19[/[0:0:0:0:0:0:0:1%0]:50906] logged in with entity id 123033 at (-402.291167070425, -4.0, 618.8872889345702)
+[22:03:18] [Server thread/INFO]: Switchblade19 joined the game
+[22:05:08] [Server thread/WARN]: Mismatch in destroy block pos: gw{x=-435, y=-11, z=621} gw{x=-436, y=-11, z=621}
