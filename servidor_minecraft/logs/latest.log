@@ -241,3 +241,9 @@
 [21:19:52] [Server thread/WARN]: Player calderah664 just tried to change non-editable sign
 [21:25:38] [Server thread/INFO]: calderah664 has made the advancement [We Need to Go Deeper]
 [21:28:48] [Server thread/WARN]: Player calderah664 just tried to change non-editable sign
+[21:36:31] [Server thread/INFO]: Villager cbh['Fisherman'/56756, l='ServerLevel[world]', x=-395.12, y=88.19, z=713.37] died, message: 'Fisherman was slain by Zombie'
+[21:36:38] [Server thread/INFO]: Villager cbh['Fisherman'/56755, l='ServerLevel[world]', x=-393.10, y=88.19, z=716.90] died, message: 'Fisherman was slain by Zombie'
+[21:38:48] [Server thread/INFO]: calderah664 was slain by Zombie
+[21:39:06] [Server thread/INFO]: calderah664 was shot by Skeleton
+[21:39:28] [Server thread/INFO]: Villager cbh['Farmer'/115946, l='ServerLevel[world]', x=-391.04, y=88.19, z=722.81] died, message: 'Farmer was slain by Zombie'
+[21:44:48] [Server thread/INFO]: [Not Secure] <calderah664> -44 100 90
