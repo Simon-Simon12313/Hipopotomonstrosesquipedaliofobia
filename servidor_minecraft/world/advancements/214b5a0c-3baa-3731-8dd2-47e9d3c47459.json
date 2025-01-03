@@ -524,6 +524,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2025-01-03 02:03:39 +0000",
       "bread": "2025-01-03 00:27:45 +0000",
       "cooked_chicken": "2025-01-03 01:30:26 +0000",
       "rotten_flesh": "2025-01-03 01:37:30 +0000",
@@ -1637,6 +1638,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-01-03 02:02:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-01-03 02:02:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-03 01:53:20 +0000"
@@ -1664,6 +1677,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-03 01:46:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-01-03 02:02:59 +0000"
     },
     "done": true
   },

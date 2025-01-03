@@ -125,3 +125,6 @@
 [01:51:01] [Server thread/INFO]: Switchblade19 has made the advancement [Diamonds!]
 [01:54:22] [Server thread/INFO]: calderah664 was slain by Spider
 [01:54:58] [Server thread/INFO]: miguel1234 was slain by Spider
+[02:01:23] [Server thread/INFO]: calderah664 has made the advancement [What a Deal!]
+[02:05:49] [Server thread/WARN]: Player calderah664 just tried to change non-editable sign
+[02:06:13] [Server thread/INFO]: Villager cbh['Villager'/38381, l='ServerLevel[world]', x=-395.30, y=86.50, z=714.68] died, message: 'Villager suffocated in a wall'
