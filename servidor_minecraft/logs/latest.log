@@ -233,3 +233,4 @@
 [19:01:52] [Server thread/INFO]: miguel1234 left the game
 [19:32:31] [Server thread/INFO]: Made Switchblade19 a server operator
 [19:32:50] [Server thread/INFO]: [Switchblade19: Applied enchantment Efficiency V to Switchblade19's item]
+[21:07:52] [Server thread/WARN]: Mismatch in destroy block pos: gw{x=-399, y=92, z=755} gw{x=-399, y=90, z=757}
