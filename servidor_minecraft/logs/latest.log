@@ -70,3 +70,21 @@
 [01:07:58] [Server thread/INFO]: [Not Secure] <calderah664> ya
 [01:10:09] [Server thread/INFO]: miguel1234 was slain by Zombie
 [01:15:34] [Server thread/INFO]: miguel1234 was slain by Zombie
+[01:19:55] [Server thread/INFO]: calderah664 has made the advancement [Take Aim]
+[01:20:09] [Server thread/INFO]: calderah664 was slain by Zombie
+[01:20:30] [Server thread/INFO]: Villager cbh['Villager'/15493, l='ServerLevel[world]', x=-418.51, y=88.00, z=709.90] died, message: 'Villager was slain by Zombie'
+[01:20:36] [Server thread/INFO]: Villager cbh['Weaponsmith'/15315, l='ServerLevel[world]', x=-395.47, y=85.56, z=718.82] died, message: 'Weaponsmith was slain by Zombie'
+[01:20:43] [Server thread/INFO]: Teleported calderah664 to Switchblade19
+[01:20:44] [Server thread/INFO]: Villager cbh['Villager'/15535, l='ServerLevel[world]', x=-395.92, y=85.00, z=712.52] died, message: 'Villager was slain by Zombie'
+[01:21:15] [Server thread/INFO]: calderah664 lost connection: You logged in from another location
+[01:21:15] [Server thread/INFO]: calderah664 left the game
+[01:21:16] [Server thread/INFO]: calderah664[/[0:0:0:0:0:0:0:1%0]:54046] logged in with entity id 30512 at (-395.6954853019422, 85.5625, 716.8465250029135)
+[01:21:16] [Server thread/INFO]: calderah664 joined the game
+[01:23:26] [Server thread/INFO]: miguel1234 was slain by Zombie
+[01:23:35] [Server thread/INFO]: miguel1234 lost connection: Timed out
+[01:23:35] [Server thread/INFO]: miguel1234 left the game
+[01:23:35] [Server thread/WARN]: handleDisconnection() called twice
+[01:23:47] [Server thread/INFO]: miguel1234[/[0:0:0:0:0:0:0:1%0]:44160] logged in with entity id 31118 at (-380.72536656302873, 90.0, 726.2582590720573)
+[01:23:47] [Server thread/INFO]: miguel1234 joined the game
+[01:24:17] [Server thread/INFO]: Teleported miguel1234 to Switchblade19
+[01:26:27] [Server thread/INFO]: calderah664 has made the advancement [Not Today, Thank You]
