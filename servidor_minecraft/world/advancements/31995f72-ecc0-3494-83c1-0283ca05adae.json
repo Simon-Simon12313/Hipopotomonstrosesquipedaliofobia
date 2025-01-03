@@ -2185,9 +2185,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2025-01-03 22:36:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ward_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-01-03 22:11:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2025-01-03 22:36:02 +0000"
     },
     "done": true
   },

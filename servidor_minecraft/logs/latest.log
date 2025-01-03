@@ -306,3 +306,29 @@
 [22:34:07] [Server thread/INFO]: Villager cbh['Fisherman'/115990, l='ServerLevel[world]', x=-385.11, y=88.19, z=710.93] died, message: 'Fisherman suffocated in a wall'
 [22:34:11] [Server thread/INFO]: Villager cbh['Fisherman'/115987, l='ServerLevel[world]', x=-384.18, y=91.56, z=702.49] died, message: 'Fisherman was slain by Switchblade19'
 [22:34:15] [Server thread/INFO]: Villager cbh['Fisherman'/115993, l='ServerLevel[world]', x=-385.68, y=91.75, z=700.36] died, message: 'Fisherman was slain by Switchblade19'
+[22:37:33] [Server thread/INFO]: Villager cbh['Villager'/115996, l='ServerLevel[world]', x=-362.36, y=93.19, z=744.86] died, message: 'Villager was slain by Zombie'
+[22:37:34] [Server thread/INFO]: Villager cbh['Fisherman'/115981, l='ServerLevel[world]', x=-355.51, y=93.19, z=740.52] died, message: 'Fisherman was slain by Zombie'
+[22:37:37] [Server thread/INFO]: Villager cbh['Villager'/115988, l='ServerLevel[world]', x=-361.84, y=93.19, z=745.46] died, message: 'Villager was slain by Zombie Villager'
+[22:37:41] [Server thread/INFO]: Villager cbh['Villager'/115972, l='ServerLevel[world]', x=-355.51, y=93.19, z=740.52] died, message: 'Villager was slain by Zombie Villager'
+[22:37:49] [Server thread/INFO]: Switchblade19 was slain by Zombie
+[22:40:37] [Server thread/WARN]: Rejecting UseItemOnPacket from Switchblade19: Location (-384.3617824316025, 90.125, 714.5774688720703) too far away from hit block gw{x=-385, y=91, z=714}.
+[22:40:37] [Server thread/WARN]: Rejecting UseItemOnPacket from Switchblade19: Location (-384.3617824316025, 90.125, 714.5774688720703) too far away from hit block gw{x=-385, y=91, z=714}.
+[22:40:37] [Server thread/WARN]: Rejecting UseItemOnPacket from Switchblade19: Location (-384.3617824316025, 90.125, 714.5774688720703) too far away from hit block gw{x=-385, y=91, z=714}.
+[22:40:37] [Server thread/WARN]: Rejecting UseItemOnPacket from Switchblade19: Location (-384.3617824316025, 90.125, 714.5774688720703) too far away from hit block gw{x=-385, y=91, z=714}.
+[22:40:37] [Server thread/WARN]: Rejecting UseItemOnPacket from Switchblade19: Location (-384.3617824316025, 90.125, 714.5774688720703) too far away from hit block gw{x=-385, y=91, z=714}.
+[22:40:37] [Server thread/WARN]: Rejecting UseItemOnPacket from Switchblade19: Location (-384.3617824316025, 90.125, 714.5774688720703) too far away from hit block gw{x=-385, y=91, z=714}.
+[22:40:37] [Server thread/WARN]: Rejecting UseItemOnPacket from Switchblade19: Location (-384.3617824316025, 90.125, 714.5774688720703) too far away from hit block gw{x=-385, y=91, z=714}.
+[22:40:37] [Server thread/WARN]: Rejecting UseItemOnPacket from Switchblade19: Location (-384.3617824316025, 90.125, 714.5774688720703) too far away from hit block gw{x=-385, y=91, z=714}.
+[22:40:37] [Server thread/WARN]: Rejecting UseItemOnPacket from Switchblade19: Location (-384.3617824316025, 90.125, 714.5774688720703) too far away from hit block gw{x=-385, y=91, z=714}.
+[22:40:37] [Server thread/WARN]: Rejecting UseItemOnPacket from Switchblade19: Location (-384.3617824316025, 90.125, 714.5774688720703) too far away from hit block gw{x=-385, y=91, z=714}.
+[22:40:37] [Server thread/WARN]: Rejecting UseItemOnPacket from Switchblade19: Location (-384.3617824316025, 90.125, 714.5774688720703) too far away from hit block gw{x=-385, y=91, z=714}.
+[22:42:14] [Server thread/WARN]: Rejecting UseItemOnPacket from Switchblade19: Location (-384.5014002621174, 90.125, 734.3003077805042) too far away from hit block gw{x=-385, y=91, z=734}.
+[22:42:14] [Server thread/WARN]: Rejecting UseItemOnPacket from Switchblade19: Location (-384.5014002621174, 90.125, 734.3003077805042) too far away from hit block gw{x=-385, y=91, z=734}.
+[22:42:14] [Server thread/WARN]: Rejecting UseItemOnPacket from Switchblade19: Location (-384.5014002621174, 90.125, 734.3003077805042) too far away from hit block gw{x=-385, y=91, z=734}.
+[22:42:14] [Server thread/WARN]: Rejecting UseItemOnPacket from Switchblade19: Location (-384.5014002621174, 90.125, 734.3003077805042) too far away from hit block gw{x=-385, y=91, z=734}.
+[22:42:14] [Server thread/WARN]: Rejecting UseItemOnPacket from Switchblade19: Location (-384.5014002621174, 90.125, 734.3003077805042) too far away from hit block gw{x=-385, y=91, z=734}.
+[22:42:14] [Server thread/WARN]: Rejecting UseItemOnPacket from Switchblade19: Location (-384.5014002621174, 90.125, 734.3003077805042) too far away from hit block gw{x=-385, y=91, z=734}.
+[22:42:14] [Server thread/WARN]: Rejecting UseItemOnPacket from Switchblade19: Location (-384.5014002621174, 90.125, 734.3003077805042) too far away from hit block gw{x=-385, y=91, z=734}.
+[22:42:14] [Server thread/WARN]: Rejecting UseItemOnPacket from Switchblade19: Location (-384.5014002621174, 90.125, 734.3003077805042) too far away from hit block gw{x=-385, y=91, z=734}.
+[22:42:14] [Server thread/WARN]: Rejecting UseItemOnPacket from Switchblade19: Location (-384.5014002621174, 90.125, 734.3003077805042) too far away from hit block gw{x=-385, y=91, z=734}.
+[22:42:29] [Server thread/INFO]: Villager cbh['Fisherman'/115968, l='ServerLevel[world]', x=-386.70, y=88.00, z=735.30] died, message: 'Fisherman was slain by Switchblade19'
