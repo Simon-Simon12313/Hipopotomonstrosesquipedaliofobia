@@ -344,3 +344,12 @@
 [22:46:24] [Server thread/WARN]: Oak Boat (vehicle of Switchblade19) moved wrongly! 0.2558363340992855
 [22:53:43] [Server thread/INFO]: [Switchblade19: Teleported calderah664 to Switchblade19]
 [23:00:57] [Server thread/INFO]: Villager cbh['Butcher'/115995, l='ServerLevel[world]', x=-383.90, y=91.67, z=702.70] died, message: 'Butcher was slain by Switchblade19'
+[23:10:38] [Server thread/INFO]: Villager cbh['Librarian'/115956, l='ServerLevel[world]', x=-393.30, y=86.00, z=739.70] died, message: 'Librarian was slain by Switchblade19'
+[23:13:54] [Server thread/INFO]: Switchblade19 has made the advancement [Cover Me with Diamonds]
+[23:14:55] [Server thread/INFO]: calderah664 lost connection: You logged in from another location
+[23:14:55] [Server thread/INFO]: calderah664 left the game
+[23:14:56] [Server thread/INFO]: calderah664[/[0:0:0:0:0:0:0:1%0]:44156] logged in with entity id 145918 at (-383.5261656859087, 91.0, 701.7975413972415)
+[23:14:56] [Server thread/INFO]: calderah664 joined the game
+[23:15:08] [Server thread/INFO]: calderah664 has made the advancement [Cover Me with Diamonds]
+[23:15:56] [Server thread/INFO]: calderah664 lost connection: Timed out
+[23:15:56] [Server thread/INFO]: calderah664 left the game
