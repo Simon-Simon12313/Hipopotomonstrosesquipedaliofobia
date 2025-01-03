@@ -293,3 +293,16 @@
 [22:16:01] [Server thread/INFO]: [Switchblade19: Set own game mode to Spectator Mode]
 [22:16:13] [Server thread/INFO]: [Switchblade19: Set own game mode to Survival Mode]
 [22:17:16] [Server thread/INFO]: [Switchblade19: Teleported Switchblade19 to calderah664]
+[22:28:29] [Server thread/INFO]: Villager cbh['Villager'/131539, l='ServerLevel[world]', x=-386.51, y=88.06, z=711.50] died, message: 'Villager was slain by Switchblade19'
+[22:30:04] [Server thread/INFO]: [Switchblade19: Teleported Switchblade19 to calderah664]
+[22:33:53] [Server thread/WARN]: Oak Boat (vehicle of calderah664) moved wrongly! 0.2978391516953707
+[22:33:53] [Server thread/WARN]: Oak Boat (vehicle of calderah664) moved wrongly! 0.2536906526755729
+[22:33:53] [Server thread/WARN]: Oak Boat (vehicle of calderah664) moved wrongly! 0.2978391516953707
+[22:33:53] [Server thread/WARN]: Oak Boat (vehicle of calderah664) moved wrongly! 0.27135005386236344
+[22:33:53] [Server thread/WARN]: Oak Boat (vehicle of calderah664) moved wrongly! 0.2978391516953707
+[22:33:53] [Server thread/WARN]: Oak Boat (vehicle of calderah664) moved wrongly! 0.2819456939428733
+[22:33:53] [Server thread/WARN]: Oak Boat (vehicle of calderah664) moved wrongly! 0.27619441119338717
+[22:33:53] [Server thread/WARN]: Oak Boat (vehicle of calderah664) moved wrongly! 0.27652843308300135
+[22:34:07] [Server thread/INFO]: Villager cbh['Fisherman'/115990, l='ServerLevel[world]', x=-385.11, y=88.19, z=710.93] died, message: 'Fisherman suffocated in a wall'
+[22:34:11] [Server thread/INFO]: Villager cbh['Fisherman'/115987, l='ServerLevel[world]', x=-384.18, y=91.56, z=702.49] died, message: 'Fisherman was slain by Switchblade19'
+[22:34:15] [Server thread/INFO]: Villager cbh['Fisherman'/115993, l='ServerLevel[world]', x=-385.68, y=91.75, z=700.36] died, message: 'Fisherman was slain by Switchblade19'
