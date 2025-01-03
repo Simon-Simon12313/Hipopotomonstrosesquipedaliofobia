@@ -53,3 +53,61 @@
 [15:53:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5822ms or 116 ticks behind
 [16:01:28] [Server thread/INFO]: miguel1234[/[0:0:0:0:0:0:0:1%0]:51594] logged in with entity id 1675 at (-385.5, 91.5625, 701.5)
 [16:01:28] [Server thread/INFO]: miguel1234 joined the game
+[16:03:22] [Server thread/INFO]: calderah664[/[0:0:0:0:0:0:0:1%0]:59076] logged in with entity id 2088 at (-405.6633711318975, 86.85489329934836, 747.9213879302894)
+[16:03:22] [Server thread/INFO]: calderah664 joined the game
+[16:03:36] [Server thread/INFO]: [Not Secure] <Switchblade19> oe no tenemos obsidiana?
+[16:03:52] [Server thread/INFO]: calderah664 lost connection: Timed out
+[16:03:52] [Server thread/INFO]: calderah664 left the game
+[16:03:52] [Server thread/WARN]: handleDisconnection() called twice
+[16:04:39] [Server thread/INFO]: Villager cbh['Villager'/149, l='ServerLevel[world]', x=-408.31, y=88.19, z=744.17] died, message: 'Villager was slain by Zombie'
+[16:04:58] [Server thread/INFO]: calderah664[/[0:0:0:0:0:0:0:1%0]:52878] logged in with entity id 2547 at (-405.6633711318975, 86.0, 747.9213879302894)
+[16:04:58] [Server thread/INFO]: calderah664 joined the game
+[16:05:01] [Server thread/INFO]: Villager cbh['Villager'/163, l='ServerLevel[world]', x=-391.53, y=88.19, z=717.35] died, message: 'Villager was slain by Zombie'
+[16:05:28] [Server thread/INFO]: calderah664 lost connection: Timed out
+[16:05:28] [Server thread/INFO]: calderah664 left the game
+[16:05:35] [Server thread/INFO]: [Not Secure] <miguel1234> xd
+[16:07:38] [Server thread/INFO]: [Not Secure] <Switchblade19> miguel a dormir
+[16:08:04] [Server thread/INFO]: [Not Secure] <miguel1234> toy en mina
+[16:08:14] [Server thread/INFO]: [Not Secure] <Switchblade19> salgase xd
+[16:08:27] [Server thread/INFO]: [Not Secure] <miguel1234> toy subiendo
+[16:09:59] [Server thread/INFO]: miguel1234 lost connection: Timed out
+[16:09:59] [Server thread/INFO]: miguel1234 left the game
+[16:10:22] [Server thread/INFO]: miguel1234[/[0:0:0:0:0:0:0:1%0]:58540] logged in with entity id 3811 at (-475.30000001192093, 40.0, 757.6481620019465)
+[16:10:22] [Server thread/INFO]: miguel1234 joined the game
+[16:10:26] [Server thread/INFO]: [Not Secure] <Switchblade19> ya
+[16:10:47] [Server thread/INFO]: calderah664[/[0:0:0:0:0:0:0:1%0]:56696] logged in with entity id 4041 at (-405.6633711318975, 86.0, 747.9213879302894)
+[16:10:47] [Server thread/INFO]: calderah664 joined the game
+[16:11:08] [Server thread/INFO]: [Not Secure] <calderah664> ali
+[16:11:16] [Server thread/INFO]: [Not Secure] <Switchblade19> q?
+[16:12:20] [Server thread/INFO]: Switchblade19 has made the advancement [Ice Bucket Challenge]
+[16:12:32] [Server thread/INFO]: calderah664 lost connection: Timed out
+[16:12:32] [Server thread/INFO]: calderah664 left the game
+[16:13:13] [Server thread/INFO]: miguel1234 tried to swim in lava
+[16:13:22] [Server thread/INFO]: [Not Secure] <Switchblade19> xd
+[16:14:03] [Server thread/INFO]: [Not Secure] <Switchblade19> mano ya me vuelvo a conetar no me demoro
+[16:14:25] [Server thread/INFO]: Switchblade19 lost connection: Timed out
+[16:14:25] [Server thread/INFO]: Switchblade19 left the game
+[16:17:52] [Server thread/INFO]: Switchblade19[/[0:0:0:0:0:0:0:1%0]:51680] logged in with entity id 6155 at (-155.32754157532315, 94.0, 768.7433109601399)
+[16:17:52] [Server thread/INFO]: Switchblade19 joined the game
+[16:22:59] [Server thread/INFO]: [Not Secure] <miguel1234> dormi
+[16:23:08] [Server thread/INFO]: [Not Secure] <Switchblade19> voy
+[16:23:09] [Server thread/INFO]: [Not Secure] <miguel1234> me desconecto
+[16:23:16] [Server thread/INFO]: [Not Secure] <Switchblade19> si
+[16:23:38] [Server thread/INFO]: miguel1234 lost connection: Timed out
+[16:23:38] [Server thread/INFO]: miguel1234 left the game
+[16:24:26] [Server thread/INFO]: miguel1234[/[0:0:0:0:0:0:0:1%0]:35040] logged in with entity id 9003 at (-210.59191493537853, 63.0, 1006.9437562002108)
+[16:24:26] [Server thread/INFO]: miguel1234 joined the game
+[16:26:48] [Server thread/INFO]: Switchblade19 has made the advancement [We Need to Go Deeper]
+[16:26:53] [Server thread/WARN]: miguel1234 moved too quickly! -0.37478383517481006,-6.037600563547684,8.102732573204662
+[16:26:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6002ms or 120 ticks behind
+[16:27:09] [Server thread/WARN]: Mismatch in destroy block pos: gw{x=-248, y=51, z=998} gw{x=-248, y=50, z=998}
+[16:27:09] [Server thread/WARN]: Mismatch in destroy block pos: gw{x=-248, y=51, z=998} gw{x=-248, y=50, z=998}
+[16:27:10] [Server thread/WARN]: Mismatch in destroy block pos: gw{x=-247, y=49, z=999} gw{x=-247, y=47, z=999}
+[16:30:16] [Server thread/INFO]: calderah664[/[0:0:0:0:0:0:0:1%0]:37868] logged in with entity id 12067 at (-395.09713695255505, 89.0, 718.4442084034039)
+[16:30:16] [Server thread/INFO]: calderah664 joined the game
+[16:30:59] [Server thread/INFO]: [Not Secure] <calderah664> oe matias
+[16:31:02] [Server thread/INFO]: [Not Secure] <Switchblade19> q
+[16:31:28] [Server thread/INFO]: [Not Secure] <calderah664> cómo se instala el optifine en el pojav
+[16:31:43] [Server thread/INFO]: [Not Secure] <Switchblade19> en el mismo launcher le aparece
+[16:31:52] [Server thread/INFO]: [Not Secure] <Switchblade19> si vanilla o con optifine
+[16:32:03] [Server thread/INFO]: [Not Secure] <calderah664> a bn déjame verxd
