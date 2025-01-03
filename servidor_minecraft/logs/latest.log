@@ -179,3 +179,10 @@
 [18:11:03] [Server thread/INFO]: Switchblade19 lost connection: Timed out
 [18:11:03] [Server thread/INFO]: Switchblade19 left the game
 [18:17:30] [Server thread/INFO]: [Not Secure] <miguel1234> xaero-waypoint:gui.xaero-deathpoint-old:D:-450:-16:765:0:false:0:Internal-overworld-waypoints
+[18:31:09] [Server thread/INFO]: Switchblade19[/[0:0:0:0:0:0:0:1%0]:54052] logged in with entity id 54520 at (-424.3402323858184, 88.0, 743.8330904989928)
+[18:31:09] [Server thread/INFO]: Switchblade19 joined the game
+[18:31:21] [Server thread/INFO]: [Not Secure] <Switchblade19> ya termino la granja ?
+[18:32:26] [Server thread/WARN]: Rejecting UseItemOnPacket from Switchblade19: Location (-381.1875, 92.52039408683777, 704.9845224618912) too far away from hit block gw{x=-383, y=92, z=704}.
+[18:32:26] [Server thread/WARN]: Rejecting UseItemOnPacket from Switchblade19: Location (-381.1875, 92.52039408683777, 704.9845224618912) too far away from hit block gw{x=-383, y=92, z=704}.
+[18:32:32] [Server thread/INFO]: [Not Secure] <miguel1234> pere
+[18:32:40] [Server thread/INFO]: [Not Secure] <miguel1234> ando minando

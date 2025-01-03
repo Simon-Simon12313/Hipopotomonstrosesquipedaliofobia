@@ -1463,12 +1463,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_button": {
-    "criteria": {
-      "has_planks": "2025-01-03 16:47:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-03 16:38:33 +0000"
@@ -1499,27 +1493,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_door": {
-    "criteria": {
-      "has_planks": "2025-01-03 16:47:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/birch_fence": {
-    "criteria": {
-      "has_planks": "2025-01-03 16:47:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-03 16:38:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-01-03 16:47:11 +0000"
     },
     "done": true
   },
@@ -1553,33 +1529,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/birch_sign": {
-    "criteria": {
-      "has_planks": "2025-01-03 16:47:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-03 16:38:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-01-03 16:47:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-01-03 16:47:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_slab": {
-    "criteria": {
-      "has_planks": "2025-01-03 16:47:11 +0000"
     },
     "done": true
   },
@@ -1601,9 +1553,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-01-03 16:47:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-01-03 16:47:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-01-03 16:47:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-03 16:47:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-01-03 16:47:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-03 16:47:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-03 16:47:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-01-03 16:47:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-01-03 16:47:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-03 18:32:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-03 18:32:07 +0000"
     },
     "done": true
   },
