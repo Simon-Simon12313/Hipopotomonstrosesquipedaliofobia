@@ -667,9 +667,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-01-04 02:15:20 +0000",
       "minecraft:skeleton": "2025-01-03 00:40:10 +0000",
       "minecraft:zombified_piglin": "2025-01-04 01:45:27 +0000",
       "minecraft:spider": "2025-01-03 00:57:45 +0000",
+      "minecraft:wither_skeleton": "2025-01-04 02:16:41 +0000",
       "minecraft:zombie": "2025-01-03 00:05:00 +0000",
       "minecraft:creeper": "2025-01-03 00:57:44 +0000"
     },
@@ -2286,6 +2288,42 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2025-01-04 01:46:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-01-04 02:15:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-04 02:21:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-04 02:15:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-01-04 02:21:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-01-04 02:15:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-04 02:15:21 +0000"
     },
     "done": true
   },
