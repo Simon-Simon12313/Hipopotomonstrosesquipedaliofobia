@@ -2,3 +2,10 @@
 [00:12:29] [Server thread/INFO]: calderah664 joined the game
 [00:17:59] [Server thread/INFO]: calderah664 lost connection: Timed out
 [00:17:59] [Server thread/INFO]: calderah664 left the game
+[00:29:47] [Server thread/INFO]: Villager cbh['Armorer'/162760, l='ServerLevel[world]', x=-379.78, y=90.00, z=704.33] died, message: 'Armorer was slain by Switchblade19'
+[00:30:15] [Server thread/INFO]: Villager cbh['Armorer'/164546, l='ServerLevel[world]', x=-378.30, y=91.00, z=702.70] died, message: 'Armorer was slain by Switchblade19'
+[00:31:03] [Server thread/INFO]: calderah664[/[0:0:0:0:0:0:0:1%0]:37368] logged in with entity id 172555 at (-384.27808246207024, 91.5625, 702.1064912282791)
+[00:31:03] [Server thread/INFO]: calderah664 joined the game
+[00:31:22] [Server thread/WARN]: Player calderah664 just tried to change non-editable sign
+[00:31:23] [Server thread/WARN]: Player calderah664 just tried to change non-editable sign
+[00:34:08] [Server thread/INFO]: Villager cbh['Armorer'/115960, l='ServerLevel[world]', x=-384.40, y=91.56, z=702.52] died, message: 'Armorer was slain by Switchblade19'
