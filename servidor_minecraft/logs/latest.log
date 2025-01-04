@@ -11,3 +11,18 @@
 [00:34:08] [Server thread/INFO]: Villager cbh['Armorer'/115960, l='ServerLevel[world]', x=-384.40, y=91.56, z=702.52] died, message: 'Armorer was slain by Switchblade19'
 [00:54:04] [Server thread/INFO]: Villager cbh['Villager'/172616, l='ServerLevel[world]', x=-385.03, y=91.61, z=701.00] died, message: 'Villager was slain by Switchblade19'
 [01:14:03] [Server thread/INFO]: Villager cbh['Librarian'/116003, l='ServerLevel[world]', x=-402.70, y=88.00, z=740.70] died, message: 'Librarian was slain by Switchblade19'
+[01:24:23] [Server thread/INFO]: Villager cbh['Villager'/146368, l='ServerLevel[world]', x=-358.30, y=93.05, z=748.70] died, message: 'Villager was squished too much'
+[01:25:14] [Server thread/INFO]: calderah664 lost connection: You logged in from another location
+[01:25:14] [Server thread/INFO]: calderah664 left the game
+[01:25:14] [Server thread/WARN]: handleDisconnection() called twice
+[01:25:15] [Server thread/INFO]: calderah664[/[0:0:0:0:0:0:0:1%0]:45220] logged in with entity id 202773 at (-382.3390903070739, 91.0, 702.1516796638261)
+[01:25:15] [Server thread/INFO]: calderah664 joined the game
+[01:27:08] [Server thread/INFO]: Villager cbh['Villager'/170905, l='ServerLevel[world]', x=-358.89, y=93.05, z=748.41] died, message: 'Villager was squished too much'
+[01:27:37] [Server thread/INFO]: Villager cbh['Villager'/185549, l='ServerLevel[world]', x=-358.81, y=93.05, z=748.40] died, message: 'Villager was squished too much'
+[01:28:04] [Server thread/INFO]: Villager cbh['Villager'/169158, l='ServerLevel[world]', x=-358.87, y=93.05, z=748.70] died, message: 'Villager was squished too much'
+[01:28:05] [Server thread/INFO]: Villager cbh['Villager'/115991, l='ServerLevel[world]', x=-358.81, y=93.05, z=748.12] died, message: 'Villager was squished too much'
+[01:32:28] [Server thread/INFO]: Villager cbh['Villager'/126491, l='ServerLevel[world]', x=-358.79, y=93.04, z=748.70] died, message: 'Villager was squished too much'
+[01:32:32] [Server thread/INFO]: Villager cbh['Villager'/169170, l='ServerLevel[world]', x=-358.88, y=93.04, z=748.22] died, message: 'Villager was squished too much'
+[01:34:06] [Server thread/INFO]: Villager cbh['Villager'/166298, l='ServerLevel[world]', x=-358.76, y=93.05, z=748.12] died, message: 'Villager was squished too much'
+[01:35:45] [Server thread/INFO]: Villager cbh['Villager'/145099, l='ServerLevel[world]', x=-358.88, y=93.05, z=748.13] died, message: 'Villager was squished too much'
+[01:36:15] [Server thread/INFO]: Villager cbh['Villager'/169161, l='ServerLevel[world]', x=-358.86, y=93.05, z=748.65] died, message: 'Villager was squished too much'
