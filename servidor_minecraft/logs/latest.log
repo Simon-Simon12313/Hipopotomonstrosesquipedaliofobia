@@ -26,3 +26,11 @@
 [01:34:06] [Server thread/INFO]: Villager cbh['Villager'/166298, l='ServerLevel[world]', x=-358.76, y=93.05, z=748.12] died, message: 'Villager was squished too much'
 [01:35:45] [Server thread/INFO]: Villager cbh['Villager'/145099, l='ServerLevel[world]', x=-358.88, y=93.05, z=748.13] died, message: 'Villager was squished too much'
 [01:36:15] [Server thread/INFO]: Villager cbh['Villager'/169161, l='ServerLevel[world]', x=-358.86, y=93.05, z=748.65] died, message: 'Villager was squished too much'
+[01:39:24] [Server thread/WARN]: Player calderah664 just tried to change non-editable sign
+[01:42:42] [Server thread/INFO]: Villager cbh['Villager'/207834, l='ServerLevel[world]', x=-383.24, y=91.18, z=701.69] died, message: 'Villager was slain by calderah664'
+[01:43:35] [Server thread/INFO]: calderah664 lost connection: You logged in from another location
+[01:43:35] [Server thread/INFO]: calderah664 left the game
+[01:43:35] [Server thread/INFO]: [Switchblade19: Gave 17 experience levels to Switchblade19]
+[01:43:36] [Server thread/INFO]: calderah664[/[0:0:0:0:0:0:0:1%0]:48394] logged in with entity id 234280 at (-379.49226111804563, 91.0, 702.6999999880791)
+[01:43:36] [Server thread/INFO]: calderah664 joined the game
+[01:47:24] [Server thread/INFO]: [Switchblade19: Gave 17 experience levels to Switchblade19]
