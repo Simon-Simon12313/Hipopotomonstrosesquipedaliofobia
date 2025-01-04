@@ -581,8 +581,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-01-04 02:10:48 +0000",
       "minecraft:skeleton": "2025-01-03 00:57:49 +0000",
       "minecraft:spider": "2025-01-03 01:51:39 +0000",
+      "minecraft:wither_skeleton": "2025-01-04 02:10:28 +0000",
       "minecraft:zombie": "2025-01-03 00:38:33 +0000",
       "minecraft:creeper": "2025-01-03 00:25:44 +0000",
       "minecraft:zombie_villager": "2025-01-03 00:37:44 +0000"
@@ -2197,6 +2199,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-01-04 02:11:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ward_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-01-03 22:11:13 +0000"
@@ -2212,6 +2220,12 @@
   "minecraft:recipes/tools/recovery_compass": {
     "criteria": {
       "has_echo_shard": "2025-01-03 22:11:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-01-04 02:10:50 +0000"
     },
     "done": true
   },
@@ -2236,6 +2250,12 @@
   "minecraft:recipes/misc/music_disc_5": {
     "criteria": {
       "has_disc_fragment_5": "2025-01-03 22:10:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-04 02:10:50 +0000"
     },
     "done": true
   },
@@ -2269,9 +2289,27 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-01-04 02:10:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-01-03 23:43:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-01-04 02:11:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-04 02:10:50 +0000"
     },
     "done": true
   },
