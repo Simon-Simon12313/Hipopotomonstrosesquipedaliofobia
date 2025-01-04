@@ -81,3 +81,16 @@
 [02:35:02] [Server thread/INFO]: calderah664 has made the advancement [Bring Home the Beacon]
 [02:35:02] [Server thread/INFO]: calderah664 has reached the goal [Beaconator]
 [02:36:48] [Server thread/WARN]: Player calderah664 just tried to change non-editable sign
+[02:41:47] [Server thread/WARN]: Rejecting UseItemOnPacket from Switchblade19: Location (-387.1875, 88.66275948286057, 720.9843281507492) too far away from hit block gw{x=-389, y=88, z=720}.
+[02:42:00] [Server thread/INFO]: [Switchblade19: Set own game mode to Creative Mode]
+[02:42:02] [Server thread/INFO]: [Switchblade19: Set own game mode to Survival Mode]
+[02:49:05] [Server thread/WARN]: Player calderah664 just tried to change non-editable sign
+[02:50:20] [Server thread/INFO]: calderah664 has made the advancement [Crafting a New Look]
+[02:52:25] [Server thread/INFO]: Switchblade19 has made the advancement [Eye Spy]
+[02:52:44] [Server thread/INFO]: [Switchblade19: Teleported calderah664 to Switchblade19]
+[02:52:44] [Server thread/INFO]: calderah664 has made the advancement [Eye Spy]
+[02:53:03] [Server thread/INFO]: Switchblade19 has made the advancement [The End?]
+[02:53:05] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[02:53:05] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[02:53:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2954ms or 59 ticks behind
+[02:53:11] [Server thread/INFO]: calderah664 has made the advancement [The End?]
